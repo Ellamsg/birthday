@@ -55,9 +55,9 @@ const Pagefive = () => {
 
                 <div className="text-center text-[1.4rem]">
                     <p className="">
-                        Birthdays are not just about growing a year older, but about adding another chapter
+                       Adding another chapter
                         to the story of your amazing life. May each moment be filled with joy, love,
-                        and endless possibilities. Happy Birthday evelyn!
+                        and endless possibilities. Happy Birthday to the girl i love, happy Birthday evelyn !
                     </p>
                 </div>
 
